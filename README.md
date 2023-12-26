@@ -16,3 +16,6 @@ Many athletes will compete multiple times across many different weight classes a
  ![image](https://github.com/haydeninghem/openpowerlifting.org-data-analysis/assets/43583120/929e9434-d620-49b2-b400-296ed1234e6f)
 
 ![image](https://github.com/haydeninghem/openpowerlifting.org-data-analysis/assets/43583120/b6d28e51-be4b-4e40-ab18-64f966ac9705)
+
+
+![image](https://github.com/haydeninghem/openpowerlifting.org-data-analysis/assets/43583120/69b0a325-05b8-4d2f-b15f-b1f76e557596)
